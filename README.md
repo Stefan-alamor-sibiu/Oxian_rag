@@ -58,7 +58,7 @@ Example in code:# Change this to your actual local path!
 
 # 5. **The Legend of Oxian: From "Glou-Glou" to AI**
 
-![Oxian](supadeverza.gif)
+![Oxian](supadevarza.gif)
 
 The name **Oxian** is a tribute to the classic film *"La Soupe aux choux"*. 
 
