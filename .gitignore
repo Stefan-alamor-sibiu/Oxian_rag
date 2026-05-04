@@ -1,0 +1,12 @@
+.env
+model_embed/
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.DS_Store
+.vscode/
+.idea/
